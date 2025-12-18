@@ -1,32 +1,45 @@
-# Hello, I'm Jyoti Shree 👋
+# Hello there, I'm Jyoti Shree 👋
 
-🎓 Bioinformatics & Data Science  
-📍 Boston University  
-🧬 Interested in genomics, RNA-seq, and data-driven biology
-
----
-
-## 🔬 What I work on
-- RNA-seq analysis & visualization (DEG, PCA, Shiny)
-- Gene expression analysis using Python & R
-- Reproducible bioinformatics workflows
+🧬 Bioinformatics Graduate | Computational Genomics & Transcriptomics  
+🎓 Boston University (MS Bioinformatics)  
 
 ---
 
-## 🧠 Tech Stack
-- Python, R  
-- Pandas, NumPy, Seaborn, ggplot2  
-- Bioconductor, DESeq2  
-- Jupyter, GitHub
+## ✨ About Me
+- 🎓 Bioinformatics graduate with a strong focus on **computational genomics, transcriptomics, and integrative omics**
+- 🔬 Experienced in **RNA-seq, ATAC-seq, sQTL analysis**, and regulatory genomics
+- 📊 Passionate about applying **machine learning and statistical modeling** to uncover biological mechanisms
+- ⚙️ Enjoy building **reproducible, scalable bioinformatics pipelines** for real-world research
+- 🧠 Interested in **regulatory genomics, gene regulation, and translational bioinformatics**
 
 ---
 
-## 📌 Featured Projects
-- **RNAseq Shiny Application** – Interactive RNA-seq visualization  
-- **Python Gene Expression Analysis** – TB & obesity datasets  
-- **R Basics for Bioinformatics** – Coursework + workflows
+## 🛠️ Tech Stack
+**Languages & Programming**
+- Python, R, SQL, Bash  
+
+**Bioinformatics & Data Science**
+- RNA-seq, ATAC-seq, DGEA, GSEA  
+- FastQC, STAR, Seurat, Bowtie, SAMtools  
+- DESeq2, GenomicRanges, Cytoscape  
+
+**Tools & Platforms**
+- R Shiny, Flask  
+- GitHub, VS Code  
+- Linux, SLURM (HPC)
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/jyoti-shree2000/
+## 🌱 Currently Exploring
+- Regulatory genomics & gene regulation  
+- Variant-to-function mapping  
+- Machine learning for biological data  
+- Scalable and reproducible research pipelines  
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/jyoti-shree2000  
+- 📧 Email: jshree@bu.edu
+
+
