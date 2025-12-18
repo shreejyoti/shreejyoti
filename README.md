@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Jyoti Shree 👋
 
-<!--
-**shreejyoti/shreejyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bioinformatics & Data Science  
+📍 Boston University  
+🧬 Interested in genomics, RNA-seq, and data-driven biology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I work on
+- RNA-seq analysis & visualization (DEG, PCA, Shiny)
+- Gene expression analysis using Python & R
+- Reproducible bioinformatics workflows
+
+---
+
+## 🧠 Tech Stack
+- Python, R  
+- Pandas, NumPy, Seaborn, ggplot2  
+- Bioconductor, DESeq2  
+- Jupyter, GitHub
+
+---
+
+## 📌 Featured Projects
+- **RNAseq Shiny Application** – Interactive RNA-seq visualization  
+- **Python Gene Expression Analysis** – TB & obesity datasets  
+- **R Basics for Bioinformatics** – Coursework + workflows
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/jyoti-shree2000/
